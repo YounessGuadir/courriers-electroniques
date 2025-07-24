@@ -90,7 +90,7 @@ export default function Layout() {
           {/* Logo */}
           <div className="flex items-center">
             <a
-              href="/"
+              href="/courriers-electroniques"
               className="group flex items-center gap-2 transition-all duration-300 hover:opacity-90"
             >
               <Mail 
